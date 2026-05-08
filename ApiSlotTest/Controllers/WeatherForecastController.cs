@@ -8,7 +8,7 @@ namespace ApiSlotTest.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering99999999", "Scorching1234567"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
