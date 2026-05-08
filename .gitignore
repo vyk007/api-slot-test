@@ -1,0 +1,63 @@
+## Ignore Visual Studio temporary files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Build results
+bin/
+obj/
+
+## .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Logs
+*.log
+
+## OS generated files
+.DS_Store
+Thumbs.db
+
+## Environment files
+.env
+
+## Rider
+.idea/
+
+## VS Code
+.vscode/
+
+## NuGet
+*.nupkg
+.nuget/
+packages/
+
+## Publish output
+publish/
+wwwroot/dist/
+
+## Azure
+*.azurePubxml
+
+## Test results
+TestResults/
+
+## Coverage
+coverage/
+*.coverage
+*.coveragexml
+
+## App settings (optional - be careful here)
+appsettings.Development.json
+
+## Secrets
+secrets.json
+
+## Node (if frontend later added)
+node_modules/
+
+## Docker
+docker-compose.override.yml
